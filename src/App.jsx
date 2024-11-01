@@ -1,7 +1,13 @@
 import "./App.css";
-import HelloWorld from "./components/HelloWorld";
+
+// ========== default import ========== //
+// import HelloWorld from "./components/HelloWorld";
+
+// ========== named import ========== //
+import { HelloWorld } from "./components/HelloWorld";
 
 function App() {
+	// return <HelloWorld />;
 	return <HelloWorld />;
 }
 
