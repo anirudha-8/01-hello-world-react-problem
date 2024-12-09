@@ -2,7 +2,7 @@
 
 ## ==> [Link to all problem set](https://github.com/anirudha-8/react.js-practical-problems.git)
 
-## ==> [🔥Live Demo](https://01-hello-world-problem.vercel.app/)
+## ==> [🔥Live Demo](https://01-hello-world-react-problem.vercel.app/)
 
 Welcome to the **first problem** of the React 30+ Practical Problems series! This challenge is designed to help you get started with React by creating a simple "Hello World" component.
 
@@ -21,7 +21,7 @@ Create a basic React application with a functional component that displays the c
 1. **Clone the Submodule Repository:**
 
    ```bash
-   git clone https://github.com/anirudha-8/01-hello-world-problem.git
+   git clone https://github.com/anirudha-8/01-hello-world-react-problem.git
    ```
 
 2. **Navigate to the Project Directory:**
