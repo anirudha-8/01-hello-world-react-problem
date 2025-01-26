@@ -6,7 +6,6 @@ datePublished: Sun Jan 26 2025 13:56:57 GMT+0000 (Coordinated Universal Time)
 cuid: cm6doohae000409l166x5gnzl
 slug: leveling-up-with-git-github-ultimate-guide-to-version-control-mastery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/KPAQpJYzH0Y/upload/980122fdc0ad380e5460a3a27ad22964.jpeg
-tags: software-development, programming-blogs, github, tools, web-development, version-control, git, webdev, developer, coding, tech, developer-tools, version-control-systems, chaiaurcode, chaicode
 
 ---
 
